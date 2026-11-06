@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Spyder 6 - Analizador de señal
+Comment=Abrir el analizador de señal en Spyder 6
+Exec=/home/agustin/.local/share/spyder6/bin/spyder /home/agustin/Programacion2/ui-git/main.py
+Terminal=false
+Categories=Development;IDE;
+StartupNotify=true
